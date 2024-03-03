@@ -1,7 +1,45 @@
-header{background:pink}
-body{background: #F8F8FF}
-h1{color:black}
-#jjj{
-	color:#DAA520;
+header{
+background:#4682B4;
 }
-footer{background:#8A2BE2}
+
+body{
+background: #DCDCDC;
+}
+
+h1{
+color:black}
+
+#jjj{
+	color:White;
+}
+footer{
+background:#4682B4
+}
+
+#A{
+	color:#FFFAFA;
+}
+#B{
+	color:White;
+}
+#C{
+	color:White;
+}
+#D{
+	color:White;
+}
+#E{
+background:#4682B4;
+}
+#F{
+	color:#4682B4;
+}
+#G{
+	color:#4682B4;
+}
+#SECTION{
+	background:#F5F5F5;
+}
+body{
+	font-family: Arial, sans-serif;
+}
